@@ -21,8 +21,8 @@
 
 - 🐣 [Rupa App](https://github.com/roshiplux/rupa): AI-powered image generator & PDF creator for nursery/primary education
 - 🍽️ [Recipe Manager](https://github.com/roshiplux/recipe-manager): Java + MySQL desktop app for managing restaurant recipes
-- 🔐 [macOS App Lock](https://github.com/roshiplux/macos-applock): A Swift-based lock utility with Touch ID and customization
-- ☁️ [Self-Hosted Cloud](https://github.com/roshiplux/diy-cloud-server): Full-stack project to build a personal cloud system from scratch
+<!-- 🔐 [macOS App Lock](https://github.com/roshiplux/macos-applock): A Swift-based lock utility with Touch ID and customization
+- ☁️ [Self-Hosted Cloud](https://github.com/roshiplux/diy-cloud-server): Full-stack project to build a personal cloud system from scratch-->
 
 ---
 
