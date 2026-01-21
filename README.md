@@ -12,7 +12,7 @@
 - 🎓 I'm a Computer Science (Hons) Undergraduate at [General Sir John Kotelawala Defence University](https://kdu.ac.lk), Sri Lanka
 - 🌟 I love building things — from apps to custom DIY tech like laptops and microcontroller projects
 - 🛠️ Working on **Rupa** — a mobile + web app that helps parents generate and compile educational images for kids
-- 🔒 Also building **macOS App Lock** with SwiftUI — with Touch ID, background protection & customizable settings
+- 🔒 Also building **macOS App ** with SwiftUI — with Touch ID, background protection & customizable settings
 - 🖥️ I explore **Linux (WSL, GNOME)**, **Flutter**, **Java**, **Arduino**, and **Cloud Dev**
 
 ---
