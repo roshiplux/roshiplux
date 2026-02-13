@@ -11,12 +11,12 @@
 
 - 🎓 I'm a Computer Science (Hons) Undergraduate at [General Sir John Kotelawala Defence University](https://kdu.ac.lk), Sri Lanka
 - 🌟 I love building things — from apps to custom DIY tech like laptops and microcontroller projects
-- 🛠️ Working on **Rupa** — a mobile + web app that helps parents generate and compile educational images for kids
+- 🛠️ Working on  a mobile + web app developing
 - 🔒 Also building **macOS App ** with SwiftUI — with Touch ID, background protection & customizable settings
 - 🖥️ I explore **Linux (WSL, GNOME)**, **Flutter**, **Java**, **Arduino**, and **Cloud Dev**
 
 ---
-
+<!--
 ### 💼 Key Projects
 
 - 🐣 [Rupa App](https://github.com/roshiplux/rupa): AI-powered image generator & PDF creator for nursery/primary education
