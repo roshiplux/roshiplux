@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshith Priyadarshana</h1>
-<h3 align="center">🚀 Tech Enthusiast | 💻 CS Undergraduate | 📸 Photographer | 🇱🇰 Sri Lankan Developer</h3>
+<h3 align="center">Undergratuate | Rapid Application Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roshiplux&label=Profile%20views&color=0e75b6&style=flat" alt="roshiplux" />
